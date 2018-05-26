@@ -1,0 +1,5 @@
+Git init
+Git Status
+Git add
+Git Commit
+Git Push
